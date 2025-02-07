@@ -1,0 +1,247 @@
+[
+    {
+      "question": "What is the purpose of a CPU cooler?",
+      "options": ["To provide power to the CPU", "To regulate the temperature of the CPU", "To increase the CPU's processing speed", "To protect the CPU from dust"],
+      "answer": ["To regulate the temperature of the CPU"]
+    },
+    {
+      "question": "Which of the following is a storage device?",
+      "options": ["RAM", "CPU", "GPU", "SSD"],
+      "answer": ["SSD"]
+    },
+    {
+      "question": "What is the function of RAM?",
+      "options": ["Long-term data storage", "Temporary data storage for running programs", "Processing instructions", "Displaying images on the screen"],
+      "answer": ["Temporary data storage for running programs"]
+    },
+    {
+      "question": "What does BIOS stand for?",
+      "options": ["Basic Input Output System", "Binary Input Output System", "Basic Internet Operating System", "Binary Internet Operating System"],
+      "answer": ["Basic Input Output System"]
+    },
+    {
+      "question": "Which of the following is an example of an input device?",
+      "options": ["Monitor", "Printer", "Keyboard", "Speaker"],
+      "answer": ["Keyboard"]
+    },
+    {
+      "question": "What is the purpose of a network interface card (NIC)?",
+      "options": ["To control the CPU's processing speed", "To connect a computer to a network", "To display images on the screen", "To store data"],
+      "answer": ["To connect a computer to a network"]
+    },
+    {
+      "question": "What is the meaning of the acronym POST in computing?",
+      "options": ["Power On Self Test", "Print On System Test", "Power On System Transfer", "Print On Self Transfer"],
+      "answer": ["Power On Self Test"]
+    },
+    {
+      "question": "Which of the following is a common operating system?",
+      "options": ["Microsoft Office", "Adobe Photoshop", "Windows", "Google Chrome"],
+      "answer": ["Windows"]
+    },
+    {
+      "question": "What is the purpose of a firewall?",
+      "options": ["To speed up internet connection", "To protect a network from unauthorized access", "To organize files on a computer", "To display images on the screen"],
+      "answer": ["To protect a network from unauthorized access"]
+    },
+    {
+      "question": "What is malware?",
+      "options": ["Software that improves computer performance", "Malicious software designed to harm a computer system", "Software that helps with data recovery", "Software that controls hardware devices"],
+      "answer": ["Malicious software designed to harm a computer system"]
+    },
+    {
+      "question": "What is phishing?",
+      "options": ["A type of computer hardware", "A type of internet game", "A type of social engineering attack", "A type of data storage device"],
+      "answer": ["A type of social engineering attack"]
+    },
+    {
+      "question": "Which port is commonly used for email (SMTP)?",
+      "options": ["21", "25", "80", "443"],
+      "answer": ["25"]
+    },
+    {
+      "question": "What is the purpose of a DHCP server?",
+      "options": ["To translate domain names to IP addresses", "To assign IP addresses to devices on a network", "To protect a network from viruses", "To store files on a network"],
+      "answer": ["To assign IP addresses to devices on a network"]
+    },
+    {
+      "question": "What is the function of a router?",
+      "options": ["To connect a computer to a monitor", "To connect multiple networks together", "To store files on a computer", "To display images on the screen"],
+      "answer": ["To connect multiple networks together"]
+    },
+    {
+      "question": "What is the difference between a hard drive (HDD) and a solid-state drive (SSD)?",
+      "options": ["HDD is faster than SSD", "SSD has moving parts, while HDD does not", "SSD is typically faster and more durable than HDD", "HDD is more expensive than SSD"],
+      "answer": ["SSD is typically faster and more durable than HDD"]
+    },
+    {
+      "question": "What is the purpose of defragmenting a hard drive?",
+      "options": ["To delete unused files", "To organize files for faster access", "To increase the hard drive's storage capacity", "To protect the hard drive from viruses"],
+      "answer": ["To organize files for faster access"]
+    },
+    {
+      "question": "What is the command to release and renew an IP address in Windows?",
+      "options": ["ipconfig /release & ipconfig /renew", "ping /release & ping /renew", "tracert /release & tracert /renew", "nslookup /release & nslookup /renew"],
+      "answer": ["ipconfig /release & ipconfig /renew"]
+    },
+    {
+      "question": "Which type of cable is commonly used to connect a computer to a monitor?",
+      "options": ["Ethernet cable", "USB cable", "HDMI cable", "Power cable"],
+      "answer": ["HDMI cable"]
+    },
+    {
+      "question": "What is the purpose of a UPS (Uninterruptible Power Supply)?",
+      "options": ["To increase the computer's processing speed", "To provide battery backup during power outages", "To protect the computer from viruses", "To regulate the temperature of the CPU"],
+      "answer": ["To provide battery backup during power outages"]
+    },
+    {
+      "question": "What is the boot sequence in a computer?",
+      "options": ["The process of installing software", "The order in which the computer checks for an operating system", "The process of connecting to the internet", "The order in which files are saved on the hard drive"],
+      "answer": ["The order in which the computer checks for an operating system"]
+    },
+    {
+      "question": "What is the maximum cable length for ethernet cables?",
+      "options": ["50 meters", "100 meters", "200 meters", "300 meters"],
+      "answer": ["100 meters"]
+    },
+    {
+      "question": "What is the correct order of the troubleshooting methodology?",
+      "options": ["Identify the problem, Test the theory, Establish a plan of action, Implement the solution, Verify full system functionality, Document findings", "Identify the problem, Establish a plan of action, Test the theory, Implement the solution, Verify full system functionality, Document findings", "Establish a plan of action, Identify the problem, Test the theory, Implement the solution, Verify full system functionality, Document findings", "Implement the solution, Verify full system functionality, Document findings, Identify the problem, Establish a plan of action, Test the theory"],
+      "answer": ["Identify the problem, Establish a plan of action, Test the theory, Implement the solution, Verify full system functionality, Document findings"]
+    },
+    {
+      "question": "Which of the following is considered personally identifiable information (PII)?",
+      "options": ["Computer's IP address", "Operating system version", "Social Security Number", "Web browser type"],
+      "answer": ["Social Security Number"]
+    },
+    {
+      "question": "Which of the following is a type of biometric authentication?",
+      "options": ["Password", "PIN", "Fingerprint scan", "Security question"],
+      "answer": ["Fingerprint scan"]
+    },
+    {
+      "question": "What does a blue screen of death (BSOD) typically indicate?",
+      "options": ["A virus infection", "A hardware or software error", "A successful system update", "A normal startup process"],
+      "answer": ["A hardware or software error"]
+    },
+    {
+      "question": "What does RAID stand for?",
+      "options": ["Redundant Array of Inexpensive Disks", "Random Access Internet Drive", "Redundant Application Interface Driver", "Random Array of Independent Devices"],
+      "answer": ["Redundant Array of Inexpensive Disks"]
+    },
+    {
+      "question": "What is the purpose of a loopback address (127.0.0.1)?",
+      "options": ["To connect to the internet", "To test the network interface card on the local machine", "To connect to a remote server", "To assign a static IP address"],
+      "answer": ["To test the network interface card on the local machine"]
+    },
+    {
+      "question": "Which of the following is a cloud storage service?",
+      "options": ["Microsoft Word", "Adobe Photoshop", "Google Drive", "Mozilla Firefox"],
+      "answer": ["Google Drive"]
+    },
+    {
+      "question": "What is the function of a GPU?",
+      "options": ["To process audio signals", "To handle graphics processing and display", "To manage network connections", "To control the computer's operating system"],
+      "answer": ["To handle graphics processing and display"]
+    },
+     {
+      "question": "What is the purpose of virtualization?",
+      "options": ["To physically connect hardware components", "To run multiple operating systems on a single physical machine", "To protect a computer from viruses", "To increase the computer's processing speed"],
+      "answer": ["To run multiple operating systems on a single physical machine"]
+    },
+      {
+      "question": "What is the function of a laser printer?",
+      "options": ["Heating special paper to create an image", "Spraying ink onto the paper", "Using ink ribbons to create an image", "Using toner and a laser to create an image"],
+      "answer": ["Using toner and a laser to create an image"]
+    },
+     {
+      "question": "Which of the following expansion slots provides the fastest data transfer rate?",
+      "options": ["PCI", "AGP", "ISA", "PCIe"],
+      "answer": ["PCIe"]
+    },
+    {
+      "question": "What is the best practice for disposing of old hard drives that contain sensitive information?",
+      "options": ["Deleting all files and folders", "Reformatting the hard drive", "Physically destroying the hard drive", "Just throwing it in the trash"],
+      "answer": ["Physically destroying the hard drive"]
+    },
+    {
+      "question": "What is the purpose of the Task Manager in Windows?",
+      "options": ["To manage files and folders", "To monitor system performance and running processes", "To control the computer's operating system", "To install software applications"],
+      "answer": ["To monitor system performance and running processes"]
+    },
+    {
+      "question": "What type of connector is commonly used for audio input/output on a computer?",
+      "options": ["USB", "HDMI", "VGA", "3.5mm audio jack"],
+      "answer": ["3.5mm audio jack"]
+    },
+    {
+      "question": "Which type of network topology connects all devices to a central hub or switch?",
+      "options": ["Bus topology", "Ring topology", "Star topology", "Mesh topology"],
+      "answer": ["Star topology"]
+    },
+    {
+      "question": "What is the purpose of a proxy server?",
+      "options": ["To connect a computer to a printer", "To act as an intermediary between a client and a server", "To protect a network from viruses", "To increase the internet connection speed"],
+      "answer": ["To act as an intermediary between a client and a server"]
+    },
+    {
+      "question": "What does VPN stand for?",
+      "options": ["Virtual Private Network", "Very Public Network", "Versatile Personal Network", "Video Processing Network"],
+      "answer": ["Virtual Private Network"]
+    },
+    {
+      "question": "Which is a common type of wireless encryption?",
+      "options": ["HTTP", "FTP", "WEP", "SMTP"],
+      "answer": ["WEP"]
+    },
+      {
+      "question": "What is the function of tracert command?",
+      "options": ["To transfer files across a network", "To trace the route packets take to a destination", "To ping a network host", "To configure network settings"],
+      "answer": ["To trace the route packets take to a destination"]
+    },
+      {
+      "question": "What is the purpose of the 'safe mode' in windows?",
+      "options": ["To boot the operating system normally", "To install new applications", "To troubleshoot issues with minimal drivers and services", "To run a complete system backup"],
+      "answer": ["To troubleshoot issues with minimal drivers and services"]
+    },
+      {
+      "question": "What is the best way to clean a computer's internal components from dust?",
+      "options": ["With a wet cloth", "With a vacuum cleaner", "With a duster", "With compressed air"],
+      "answer": ["With compressed air"]
+    },
+      {
+      "question": "What is the difference between a full backup and an incremental backup?",
+      "options": ["A full backup only backs up system files; an incremental only backs up user files", "A full backup backs up all data, while an incremental backs up only changes since the last backup", "An Incremental backup back ups all data, while a full back up only changes since the last backup", "A full backup is faster, while an incremental is slower"],
+      "answer": ["A full backup backs up all data, while an incremental backs up only changes since the last backup"]
+    },
+      {
+      "question": "What does SSID stand for?",
+      "options": ["System Service Identification", "Service Set Identifier", "Software System Installation Device", "System Storage Interface Driver"],
+      "answer": ["Service Set Identifier"]
+    },
+      {
+      "question": "Which of the following is an example of a mobile device operating system?",
+      "options": ["Windows", "macOS", "Android", "Linux"],
+      "answer": ["Android"]
+    },
+    {
+      "question": "What is the primary function of a codec?",
+      "options": ["Compressing and decompressing video or audio files", "Controlling computer hardware", "Managing network connections", "Creating documents and spreadsheets"],
+      "answer": ["Compressing and decompressing video or audio files"]
+    },
+     {
+      "question": "What type of memory is used for cache memory?",
+      "options": ["DRAM", "SRAM", "ROM", "Flash Memory"],
+      "answer": ["SRAM"]
+    },
+    {
+      "question": "What is the standard for wireless network security that offers the most security?",
+      "options": ["WEP", "WPA", "WPA2", "WPA3"],
+      "answer": ["WPA3"]
+    },
+    {
+      "question": "Which of the following is a security measure to protect wireless networks from unauthorized access?",
+      "options": ["MAC address filtering", "Disabling file sharing", "Enabling guest accounts", "Turning off the firewall"],
+      "answer": ["MAC address filtering"]
+    }
+  ]
